@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.app</groupId>
+    <groupId>com</groupId>
     <artifactId>war-project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>War-new2 Project</name>
     <url>http://maven.apache.org</url>
@@ -14,7 +14,7 @@
 <maven.compiler.source>17</maven.compiler.source> 
 <maven.compiler.target>17</maven.compiler.target> 
 <sonar.host.url>http://192.168.33.10:9000</sonar.host.url> 
-<sonar.login>sqa_761e5e0442c509cea2641021e40b2b387c9cbc71</sonar.login> 
+<sonar.login>sqa_6a4e4f2899948ea90a804006934bb8c92894c1f7</sonar.login> 
 </properties>
 
 	
@@ -95,7 +95,7 @@
 
     <snapshotRepository>
         <id>nexus</id>
-        <url>http://192.168.56.15:8081/repository/amazon-Snapshot/</url>
+        <url>http://192.168.33.10:8081/repository/jenjins-nexus-CI/</url>
     </snapshotRepository>
 </distributionManagement>
 
