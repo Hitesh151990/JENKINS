@@ -7,9 +7,17 @@
     <artifactId>war-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-
-    <name>War Project</name>
+    <name>War-new Project</name>
     <url>http://maven.apache.org</url>
+
+<properties> 
+<maven.compiler.source>17</maven.compiler.source> 
+<maven.compiler.target>17</maven.compiler.target> 
+<sonar.host.url>http://192.168.33.10:9000</sonar.host.url> 
+<sonar.login>sqa_761e5e0442c509cea2641021e40b2b387c9cbc71</sonar.login> 
+</properties>
+
+	
 
     <dependencies>
         <!-- Servlet API -->
