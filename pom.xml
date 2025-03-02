@@ -7,7 +7,7 @@
     <artifactId>war-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>War-new Project</name>
+    <name>War-new2 Project</name>
     <url>http://maven.apache.org</url>
 
 <properties> 
