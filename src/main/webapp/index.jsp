@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>James Wilson - Portfolio</title>
+    <title>Deepak Sagar- Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
@@ -126,9 +126,9 @@
           <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-1/2 space-y-8">
               <h1 class="text-5xl font-bold text-gray-900">
-                Hi, I'm <span class="text-primary">James Wilson</span>
+                Hi, I'm <span class="text-primary">Deepak Sagar</span>
                 <br />
-                Full Stack Developer
+                Devops Engineer
               </h1>
               <p class="text-xl text-gray-600">
                 Crafting digital experiences with passion and precision.
