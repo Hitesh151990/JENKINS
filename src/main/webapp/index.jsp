@@ -183,24 +183,18 @@
                   <div class="flex items-center justify-between">
                     <span class="text-gray-700">Skills</span>
                     <span class="text-gray-600"
-                      >Software Engineering Problem
-                      Solving,c++,SQL,Linux,AWS,DevOps,Jenkins,Docker,Python,CI/Cd,Kubernetes</span
+                      >SQL,Linux,AWS,DevOps,Jenkins,Docker,Python,CI/Cd,Kubernetes</span
                     >
                   </div>
                   <div class="flex items-center justify-between">
                     <span class="text-gray-700">Language</span>
                     <span class="text-gray-600"
-                      >English ( Both ), hindi ( Both )</span
-                    >
+                      >English, hindi</span>
                   </div>
                   <div class="flex items-center justify-between">
                     <span class="text-gray-700">Awards & Honor</span>
                     <span class="text-gray-600"
-                      >Secured top percentile in JEE Advanced, demonstrating
-                      exceptional aptitude and dedication in mastering advanced
-                      level concepts in Mathematics, Physics, and
-                      Chemistry</span
-                    >
+                      >Secured top percentile in JEE Advanced</span>
                   </div>
                   <div class="flex items-center justify-between">
                     <span class="text-gray-700">Test score</span>
