@@ -73,7 +73,7 @@
       <nav class="container mx-auto px-6 py-4">
         <div class="flex justify-between items-center">
           <a href="#" class="text-2xl font-['Pacifico'] text-primary"
-            >James Wilson</a
+            >Deepak Sagar</a
           >
           <div class="hidden md:flex space-x-8">
             <a
@@ -126,7 +126,7 @@
           <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-1/2 space-y-8">
               <h1 class="text-5xl font-bold text-gray-900">
-                Hi, I'm <span class="text-primary">James Wilson</span>
+                Hi, I'm <span class="text-primary">Deepak Sagar</span>
                 <br />
                 DevOps Engineer
               </h1>
@@ -169,11 +169,6 @@
               </div>
             </div>
             <div class="md:w-1/2 mt-12 md:mt-0">
-              <img
-                src="https://public.readdy.ai/ai/img_res/8a610cfb584ecd55de9bdeb616b6974f.jpg"
-                alt="James Wilson"
-                class="rounded-full w-80 h-80 object-cover mx-auto shadow-xl"
-              />
             </div>
           </div>
         </div>
@@ -189,8 +184,7 @@
                     <span class="text-gray-700">Skills</span>
                     <span class="text-gray-600"
                       >Software Engineering Problem
-                      Solving,c++,SQL,Linux,AWS,DevOps,Jenkins,Docker,Python,CI/Cd,Kubernetes,Shell
-                      Scripting</span
+                      Solving,c++,SQL,Linux,AWS,DevOps,Jenkins,Docker,Python,CI/Cd,Kubernetes</span
                     >
                   </div>
                   <div class="flex items-center justify-between">
@@ -239,7 +233,7 @@
             </div>
             <div class="md:w-1/2 space-y-6">
               <h3 class="text-2xl font-semibold text-gray-900">
-                Full Stack Developer & UI/UX Enthusiast
+                Full Stack Developer & Cloud Engineer
               </h3>
               <p class="text-gray-600">
                 With over 8 years of experience in web development, I've had the
@@ -250,7 +244,7 @@
               <div class="grid grid-cols-2 gap-6">
                 <div>
                   <h4 class="font-semibold text-gray-900">Location</h4>
-                  <p class="text-gray-600">San Francisco, CA</p>
+                  <p class="text-gray-600">MOradabad,UP</p>
                 </div>
                 <div>
                   <h4 class="font-semibold text-gray-900">Experience</h4>
