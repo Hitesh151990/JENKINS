@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com</groupId>
-    <artifactId>my-project</artifactId>
+    <artifactId>war-project</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>War-Project</name>
