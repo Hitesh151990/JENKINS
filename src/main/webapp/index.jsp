@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deepak Sagar- Portfolio</title>
+    <title>James Wilson - Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
@@ -126,14 +126,14 @@
           <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="md:w-1/2 space-y-8">
               <h1 class="text-5xl font-bold text-gray-900">
-                Hi, I'm <span class="text-primary">Deepak Sagar</span>
+                Hi, I'm <span class="text-primary">James Wilson</span>
                 <br />
-                Devops Engineer
+                DevOps Engineer
               </h1>
               <p class="text-xl text-gray-600">
-                Crafting digital experiences with passion and precision.
-                Specialized in modern web technologies and creative problem
-                solving.
+                Automating and optimizing infrastructure with expertise in
+                CI/CD, cloud technologies, and containerization. Bridging the
+                gap between development and operations.
               </p>
               <div class="flex space-x-4">
                 <button
@@ -281,11 +281,11 @@
           </h2>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div class="p-6 bg-white rounded-lg shadow-lg">
-              <h3 class="text-xl font-semibold mb-6">Frontend Development</h3>
+              <h3 class="text-xl font-semibold mb-6">Cloud & Infrastructure</h3>
               <div class="space-y-4">
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">React.js</span>
+                    <span class="text-gray-700">AWS</span>
                     <span class="text-primary">95%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -297,7 +297,7 @@
                 </div>
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">Vue.js</span>
+                    <span class="text-gray-700">Terraform</span>
                     <span class="text-primary">90%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -309,7 +309,7 @@
                 </div>
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">TypeScript</span>
+                    <span class="text-gray-700">Kubernetes</span>
                     <span class="text-primary">85%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -322,11 +322,11 @@
               </div>
             </div>
             <div class="p-6 bg-white rounded-lg shadow-lg">
-              <h3 class="text-xl font-semibold mb-6">Backend Development</h3>
+              <h3 class="text-xl font-semibold mb-6">CI/CD & Automation</h3>
               <div class="space-y-4">
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">Node.js</span>
+                    <span class="text-gray-700">Jenkins</span>
                     <span class="text-primary">90%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -338,7 +338,7 @@
                 </div>
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">Python</span>
+                    <span class="text-gray-700">GitLab CI</span>
                     <span class="text-primary">85%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -350,7 +350,7 @@
                 </div>
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">MongoDB</span>
+                    <span class="text-gray-700">Ansible</span>
                     <span class="text-primary">80%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -363,11 +363,11 @@
               </div>
             </div>
             <div class="p-6 bg-white rounded-lg shadow-lg">
-              <h3 class="text-xl font-semibold mb-6">Other Skills</h3>
+              <h3 class="text-xl font-semibold mb-6">Monitoring & Security</h3>
               <div class="space-y-4">
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">UI/UX Design</span>
+                    <span class="text-gray-700">Prometheus</span>
                     <span class="text-primary">85%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
@@ -379,25 +379,25 @@
                 </div>
                 <div class="skill-item">
                   <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">DevOps</span>
+                    <span class="text-gray-700">ELK Stack</span>
+                    <span class="text-primary">80%</span>
+                  </div>
+                  <div class="bg-gray-200 rounded-full h-2">
+                    <div
+                      class="bg-primary rounded-full h-2 skill-progress"
+                      style="width: 80%"
+                    ></div>
+                  </div>
+                </div>
+                <div class="skill-item">
+                  <div class="flex justify-between mb-2">
+                    <span class="text-gray-700">Security Tools</span>
                     <span class="text-primary">75%</span>
                   </div>
                   <div class="bg-gray-200 rounded-full h-2">
                     <div
                       class="bg-primary rounded-full h-2 skill-progress"
                       style="width: 75%"
-                    ></div>
-                  </div>
-                </div>
-                <div class="skill-item">
-                  <div class="flex justify-between mb-2">
-                    <span class="text-gray-700">Project Management</span>
-                    <span class="text-primary">80%</span>
-                  </div>
-                  <div class="bg-gray-200 rounded-full h-2">
-                    <div
-                      class="bg-primary rounded-full h-2 skill-progress"
-                      style="width: 80%"
                     ></div>
                   </div>
                 </div>
@@ -438,7 +438,7 @@
               class="group relative overflow-hidden rounded-lg shadow-lg cursor-pointer"
             >
               <img
-                src="https://public.readdy.ai/ai/img_res/5df080fe913796403c1780b897dce9e5.jpg"
+                src="https://public.readdy.ai/ai/img_res/45b2f1d4d5398a0396c3e86f279e9cd8.jpg"
                 alt="Project 1"
                 class="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-110"
               />
@@ -447,10 +447,10 @@
               >
                 <div class="absolute bottom-0 left-0 right-0 p-6">
                   <h3 class="text-xl font-semibold text-white mb-2">
-                    Analytics Dashboard
+                    Cloud Migration Project
                   </h3>
                   <p class="text-gray-200 mb-4">
-                    A comprehensive analytics platform for business intelligence
+                    Migrated legacy systems to microservices architecture on AWS
                   </p>
                   <div class="flex space-x-4">
                     <a
@@ -556,9 +556,9 @@
                 <div class="flex items-center">
                   <div class="flex-1 text-right pr-8">
                     <h3 class="text-xl font-semibold text-gray-900">
-                      Senior Full Stack Developer
+                      Senior DevOps Engineer
                     </h3>
-                    <p class="text-primary">Google</p>
+                    <p class="text-primary">Google Cloud</p>
                     <p class="text-gray-600">2021 - Present</p>
                   </div>
                   <div
@@ -568,9 +568,10 @@
                   </div>
                   <div class="flex-1 pl-8">
                     <p class="text-gray-600">
-                      Led a team of developers in building and maintaining
-                      large-scale web applications. Implemented microservices
-                      architecture and improved system performance by 40%.
+                      Led infrastructure automation initiatives and implemented
+                      GitOps practices. Reduced deployment time by 60% and
+                      achieved 99.99% uptime across production services. Managed
+                      multi-cloud Kubernetes clusters serving millions of users.
                     </p>
                   </div>
                 </div>
@@ -579,9 +580,9 @@
                 <div class="flex items-center">
                   <div class="flex-1 text-right pr-8">
                     <h3 class="text-xl font-semibold text-gray-900">
-                      Frontend Developer
+                      DevOps Engineer
                     </h3>
-                    <p class="text-primary">Facebook</p>
+                    <p class="text-primary">AWS</p>
                     <p class="text-gray-600">2018 - 2021</p>
                   </div>
                   <div
@@ -591,9 +592,10 @@
                   </div>
                   <div class="flex-1 pl-8">
                     <p class="text-gray-600">
-                      Developed and optimized user interfaces for various
-                      Facebook products. Collaborated with design teams to
-                      implement pixel-perfect, responsive designs.
+                      Designed and implemented CI/CD pipelines using AWS
+                      services. Automated infrastructure deployment with
+                      Terraform and CloudFormation. Reduced infrastructure costs
+                      by 35% through optimization.
                     </p>
                   </div>
                 </div>
@@ -602,9 +604,9 @@
                 <div class="flex items-center">
                   <div class="flex-1 text-right pr-8">
                     <h3 class="text-xl font-semibold text-gray-900">
-                      Software Engineer
+                      Systems Engineer
                     </h3>
-                    <p class="text-primary">Amazon</p>
+                    <p class="text-primary">Microsoft Azure</p>
                     <p class="text-gray-600">2016 - 2018</p>
                   </div>
                   <div
@@ -614,9 +616,9 @@
                   </div>
                   <div class="flex-1 pl-8">
                     <p class="text-gray-600">
-                      Worked on the AWS console team, developing new features
-                      and improving user experience. Implemented automated
-                      testing procedures.
+                      Managed large-scale cloud infrastructure and implemented
+                      monitoring solutions. Set up automated disaster recovery
+                      procedures and reduced system downtime by 75%.
                     </p>
                   </div>
                 </div>
@@ -948,4 +950,5 @@
     </script>
   </body>
 </html>
+
 
