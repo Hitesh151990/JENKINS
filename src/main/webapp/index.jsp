@@ -659,7 +659,7 @@
                 </div>
               </div>
               <p class="text-gray-600">
-                "Working with James was a pleasure. He brought innovative
+                "Working with Deepak was a pleasure. He brought innovative
                 solutions to our challenges and consistently delivered
                 high-quality work."
               </p>
@@ -684,7 +684,7 @@
                 </div>
               </div>
               <p class="text-gray-600">
-                "James's technical skills and problem-solving abilities are
+                "Deepak's technical skills and problem-solving abilities are
                 outstanding. He's a great communicator and team player."
               </p>
               <div class="flex mt-4">
@@ -712,7 +712,7 @@
                     <i class="ri-map-pin-line ri-lg"></i>
                   </div>
                   <p class="ml-4 text-gray-600">
-                    123 Tech Street, San Francisco, CA 94105
+                   moradabad,up
                   </p>
                 </div>
                 <div class="flex items-center">
@@ -721,7 +721,7 @@
                   >
                     <i class="ri-mail-line ri-lg"></i>
                   </div>
-                  <p class="ml-4 text-gray-600">james.wilson@example.com</p>
+                  <p class="ml-4 text-gray-600">Sagardeepak2002@gmail.com</p>
                 </div>
                 <div class="flex items-center">
                   <div
@@ -729,7 +729,7 @@
                   >
                     <i class="ri-phone-line ri-lg"></i>
                   </div>
-                  <p class="ml-4 text-gray-600">+1 (555) 123-4567</p>
+                  <p class="ml-4 text-gray-600">1234567890</p>
                 </div>
               </div>
               <div class="mt-8">
