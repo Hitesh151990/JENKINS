@@ -163,7 +163,7 @@
 
     <snapshotRepository>
         <id>nexus</id>
-        <url>http://http://13.49.224.220:8081/repository/scripted_test/</url>
+        <url>http://13.49.224.220:8081/repository/scripted_test/</url>
     </snapshotRepository>
 </distributionManagement>
 
